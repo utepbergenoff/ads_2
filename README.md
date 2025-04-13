@@ -58,11 +58,8 @@ java TestMyLinkedList
 - These implementations are for learning purposes and demonstrate manual memory and structure management in Java.
 - Sorting is implemented using `Arrays.sort()` after converting to a temporary array.
 
-## Optional Future Additions
-- `MyHashMap<K, V>`
-- `MySet<T>`
-- Unit tests using JUnit
+
 
 ---
-Created by: Yerlan 💻
+Created by: Yerlan Utepbergenov
 
